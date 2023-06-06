@@ -283,6 +283,7 @@ support noauth
 - link: https://github.com/ansible/ansible/pull/2184
 - tools: python
 
+Patches:
 - Nicer YAML formatting filters.
 - Support keyring for sudo passwords.
 
