@@ -1,7 +1,7 @@
 # Open Source Contributions
 
-- see: https://github.com/pulls?q=is%2Apr+author%3Aakvadrako
-- see: https://sourceforge.net/u/mal0rd/profile/
+- see: [Github Pull Requests](https://github.com/pulls?q=is%2Apr+author%3Aakvadrako)
+- see: [Sourceforge Profile](https://sourceforge.net/u/mal0rd/profile/)
 
 ## AceBase - FOSS Firebase alternative
 
