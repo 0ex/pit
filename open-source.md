@@ -365,6 +365,8 @@ udhcp fixes, OS X support, experimental SSL support, etc...
 - when: 2006-01 → 2007-02
 - tag: minor
 
+patches:
+
 - 506: new package: at
 - 507: new package: bind
 - 508: new package: libidn
@@ -398,6 +400,8 @@ Fix at so it can be cross-compiled (using buildroot).
 - link: https://tracker.debian.org/pkg/ruby-zoom
 - link: https://salsa.debian.org/ruby-team/ruby-zoom
 
+Patches:
+
 - Added ZOOM::Record#raw, to grab a marc record in marc format.
 - Added new sample: needle.rb
 
@@ -420,6 +424,8 @@ ISC-Bugs #15573
 
 - when: 2006-02
 - tag: minor
+
+Patches:
 
 - Created `zoneinfo2posix` utility, which allowed using real timezones.
 - 643: getpass() fixes - did not handle CTRL-C
@@ -447,8 +453,7 @@ Amua client, proxy client
 - when: 2003 → 2004-11
 - tag: minor
 - kw: GAIM
-
-- Jabber related and general bugfixes
+- note: Jabber related and general bugfixes
 
 Wrote three C plugins for Gaim, an instant messaging client:
 
@@ -612,6 +617,7 @@ Fixes of macOS.
 - link: https://sourceforge.net/projects/imlogconverter/
 - see: `IM Log Converter.zip`
 
+Patches:
 - Convert between different Instant Messenger chat log formats.
 - Supports reading old-style Gaim and Poisoned logs.
 - Supports writing iChat v3.0+ logs.
