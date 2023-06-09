@@ -149,7 +149,7 @@ Make assets location portable.
 - when: 2020
 - tag: owner
 - status: wip
-- link: https://github.com/akvadrako/sdlang-git
+- link: https://github.com/akvadrako/sdlang
 
 SDLang is a simple and concise way to textually represent data.
 This is the first python implementation, also test bed for specl.
