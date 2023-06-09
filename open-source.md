@@ -1,7 +1,54 @@
 # Open Source Contributions
 
-- see: [Github Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Aakvadrako)
-- see: [Sourceforge Profile](https://sourceforge.net/u/mal0rd/profile/)
+See also:
+- [Github Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Aakvadrako)
+- [Sourceforge Profile](https://sourceforge.net/u/mal0rd/profile/)
+- [0ex Public Repos](https://github.com/search?q=+org%3A0ex+is%3Apublic&type=repositories&s=updated&o=desc)
+- [akvadrako Public Repos](https://github.com/search?q=+user%3Aakvadrako+is%3Apublic&type=repositories&s=updated&o=desc)
+
+Tags:
+- owner -- Created by me
+- top10 -- What I'm most proud of
+
+Notes
+- roughly sorted by creation time
+
+## More-Awesome
+
+- when: 2022 - 2023
+- link: https://github.com/0ex/more-awesome
+- tag: owner
+
+A merger of several lists of lists, which serve as curated collections on particular topics.
+
+Includes a Github Repo Mirror Tool
+- see [github-mirror.py](https://github.com/0ex/more-awesome/blob/main/github-mirror.py)
+- allows merging PRs from upstream repositories and doing a semantic merge of lists in README.md
+
+## json2kml
+
+- when: 2021
+- link: https://github.com/akvadrako/json2kml
+
+Added `csv2kml.py` script for exporting google maps stars.
+
+## Fake Sudo
+
+- when: 2020
+- link: https://github.com/0ex/fake-sudo
+- status: works, unused
+- tag: owner
+
+A sudo replacement that lets you become root inside user namespaces.
+
+## Discourse KISS
+
+- when: 2020
+- tag: owner
+- link: https://github.com/0ex/discourse-kiss
+- status: obsolete
+
+A simple alternative to deploy Discourse as a normal Docker image. 
 
 ## AceBase - FOSS Firebase alternative
 
@@ -97,6 +144,16 @@ Update link to WoeUSB tool.
 
 Make assets location portable.
 
+## sdlang python parser
+
+- when: 2020
+- tag: owner
+- status: wip
+- link: https://github.com/akvadrako/sdlang-git
+
+SDLang is a simple and concise way to textually represent data.
+This is the first python implementation, also test bed for specl.
+
 ## netfilter - Linux Firewall Subsystem
 
 - when: 2019
@@ -136,6 +193,14 @@ Added color management.
 - link: https://github.com/nix-community/nixpkgs-wayland/pull/215
 
 Update some packages.
+
+## dockerlib
+
+- when: 2020
+- link: https://github.com/akvadrako/docker-lib
+- tag: owner
+
+A few docker images.
 
 ## instantlinux - docker-tools
 
@@ -205,6 +270,14 @@ Fix medium-size integer formatting.
 
 Added Dockerfile for building.
 
+## no-framework
+
+- when: 2018
+- tag: owner
+- link: https://github.com/akvadrako/no-framework
+
+A lightweight JS framework.
+
 ## Python
 
 - when: 2017-10-12
@@ -214,6 +287,27 @@ Added Dockerfile for building.
 
 I fixed a bug in Python where stale bytecode would be used
 for modules which were modified less than 1 second ago.
+
+## PythonAutoImport
+
+- when: 2016
+- link: https://github.com/akvadrako/PythonAutoImport
+- tag: owner
+- status: unknown
+
+Sublime Text 3 plugin for auto importing python modules.
+
+Has evolved into my other auto-importers.
+
+## nrcr
+
+- when: 2016
+- link: https://github.com/akvadrako/nrcr
+- tag: owner
+- status: experiment
+
+For an Irdeto hack-a-thon, a script to automate signup to weekly massages.
+
 
 ## Meteor - noSQL
 
@@ -231,6 +325,15 @@ Added onMessage hook.
 
 Updated docs.
 
+## commitalot
+
+- when: 2016
+- status: current, mature
+- tag: owner
+- link: https://github.com/akvadrako/commitalot
+
+A script to create a commit for every day, even into the future!
+
 ## Webpack Jade Plugin
 
 - when: 2015
@@ -240,6 +343,14 @@ Updated docs.
 
 Added support to render Jade tempaltes as static HTML
 instead of javascript functions.
+
+## 
+
+- when: 2015
+- link: https://github.com/akvadrako/broccoli-jade-render
+- tag: owner
+
+A JS Build plugin to render Jade templates.
 
 ## libcloud
 
